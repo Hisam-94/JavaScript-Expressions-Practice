@@ -8,6 +8,7 @@ ReactDom.render(
   <>
     <p>Created by {Name}</p>
     <p>Copywrite {curYear}</p>
+    <p>Hello</p>
   </>,
   document.getElementById("root")
 );
